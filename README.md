@@ -57,7 +57,8 @@ print(classification_report1)
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/c4a2ab18-7338-46d1-afcd-ff1c6b65972e)
+![image](https://github.com/user-attachments/assets/9ac0f582-11d8-4858-928f-ecb2e645f4ba)
+
 
 
 
